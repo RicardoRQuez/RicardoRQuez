@@ -1,13 +1,13 @@
 ### ¡Hola a todos! Mi nombre es Ricardo Rodríguez 👋
 
-## SOy desarrollador de Software
+## Soy desarrollador de Software
 
 - ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
 
 ### Contactame!:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/ricardorodriguezquez/" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://www.instagram.com/_ricardo_r/?hl=es" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" />][instagram]
 <br />
 
 ### Lenguajes y Herramientas que utilizo:
@@ -24,4 +24,5 @@ __Generales:__
 <br />
 
 
-
+[linkedin]: https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/
+[instagram]: https://www.instagram.com/c_h_o_c_h_y/
