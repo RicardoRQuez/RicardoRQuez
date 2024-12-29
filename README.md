@@ -7,14 +7,14 @@
 ### ¡Contáctame!
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 <br />
 
 ### Lenguajes y Herramientas que utilizo:
 
 __Generales:__  
 <br />
-<span>
+<span style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <!-- JavaScript -->
   <img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30" height="30" />
   
@@ -48,8 +48,6 @@ __Generales:__
   <!-- GitLab -->
   <img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="30" height="30" />
 </span>
-
-
 
 [linkedin]: https://www.linkedin.com/in/ricardorodriguezquez/
 [instagram]: https://www.instagram.com/_ricardo_r/?hl=es
