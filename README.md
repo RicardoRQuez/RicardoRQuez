@@ -14,15 +14,41 @@
 
 __Generales:__ 
 <br />
+<!-- JavaScript -->
+<img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30" height="30" />
+
+<!-- React -->
+<img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30" />
+
+<!-- Node.js -->
+<img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30" />
+
+<!-- PostgreSQL -->
+<img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" height="30" />
+
+<!-- SCSS -->
+<img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30" height="30" />
+
+<!-- Python -->
+<img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" />
+
+<!-- Express -->
+<img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="30" height="30" />
+
+<!-- Django -->
+<img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="30" height="30" />
+
+<!-- Git -->
 <img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/go/go-original.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30" height="30"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/debian/debian-original.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/>
+
+<!-- GitHub -->
+<img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" height="30" />
+
+<!-- GitLab -->
+<img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="30" height="30" />
+
 <br />
 
 
-[linkedin]: https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/
-[instagram]: https://www.instagram.com/c_h_o_c_h_y/
+[linkedin]: [https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/](https://www.linkedin.com/in/ricardorodriguezquez/)
+[instagram]: [https://www.instagram.com/c_h_o_c_h_y/](https://www.instagram.com/_ricardo_r/?hl=es)
